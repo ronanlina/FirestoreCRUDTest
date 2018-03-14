@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirestoreTest</string>
+    <string name="Budget">Budget</string>
+    <string name="findButton">Find</string>
+    <string name="toAddAct">Add</string>
+    <string name="resNameInput">Restaurant</string>
+    <string name="averagePrice">Average Price</string>
+</resources>
